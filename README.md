@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am a Software Engineer who likes Problem Solving, Python, C++, Embedded systems and Robotics.
+
+#### Other Profiles:
+1. [LinkedIn](https://www.linkedin.com/in/hariharanragothaman/)
+
 
 <!--
 **hariharanragothaman/hariharanragothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
