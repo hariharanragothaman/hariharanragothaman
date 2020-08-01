@@ -2,9 +2,16 @@
 
 I am a Software Engineer who likes Problem Solving, Python, C++, Embedded systems and Robotics.
 
-#### Other Profiles:
+### Other Profiles:
 1. [LinkedIn](https://www.linkedin.com/in/hariharanragothaman/)
 2. [StackOverflow](https://stackoverflow.com/users/3555366/hariharanragothaman)
+
+### Languages and Tools:
+[<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  />](python)
+[<img align="left" alt="cplusplus" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"  />](cplusplus)
+
+
+
 
 
 <!--
