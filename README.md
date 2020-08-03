@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a Software Engineer who likes Problem Solving, Python, C++, Embedded systems and Robotics.
+Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems and Robotics.
 
 ### Other Profiles:
 1. [LinkedIn](https://www.linkedin.com/in/hariharanragothaman/)
