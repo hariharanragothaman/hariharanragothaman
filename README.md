@@ -22,7 +22,7 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 
 
 ### Test Frameworks:
-[<img align="left" alt="PyTest" width="50" height="50" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](PyTest)  
+[<img align="left" alt="PyTest" width="50" height="50" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](https://docs.pytest.org/en/stable/)  
 
 <!--
 **hariharanragothaman/hariharanragothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
