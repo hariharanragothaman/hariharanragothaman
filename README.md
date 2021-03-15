@@ -8,13 +8,13 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 
 ### Languages and Tools:  
 
-[<img align="left" alt="cplusplus" width="42px" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"  />](cplusplus)
-[<img align="left" alt="Python" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  />](python)
-[<img align="left" alt="PyTest" width="42px" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](PyTest)    
+[<img align="left" alt="Python" width="70px" height="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  />](python)
+[<img align="left" alt="PyTest" width="70px" height = "65px" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](PyTest)    
 [<img align="left" alt="Docker" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"  />](docker)
-[<img align="left" alt="MATLAB" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"  />](MATLAB)
+[<img align="left" alt="Flask" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](Flask)  
+[<img align="left" alt="cplusplus" width="70px" height="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"  />](cplusplus)
 [<img align="left" alt="Arduino" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"  />](Arduino)
-[<img align="left" alt="Flask" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](Flask)     
+[<img align="left" alt="MATLAB" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"  />](MATLAB)   
 <br />
 
 
