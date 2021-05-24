@@ -5,6 +5,7 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 ### Other Profiles:
 1. [LinkedIn](https://www.linkedin.com/in/hariharanragothaman/)
 2. [StackOverflow](https://stackoverflow.com/users/3555366/hariharanragothaman)
+3. [Medium](https://medium.com/upsolve-digest)
 
 ### Languages: 
 
