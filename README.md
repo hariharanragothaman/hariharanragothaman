@@ -7,6 +7,9 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 2. [StackOverflow](https://stackoverflow.com/users/3555366/hariharanragothaman)
 3. [Medium](https://medium.com/upsolve-digest)
 
+### Other Repo's of interest.   
+1. [arduinoMaster](https://github.com/hariharanragothaman/arduinomaster) 
+
 ### Languages: 
 
 [<img align="left" alt="Python" width="50" height="50" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"  />](https://docs.python.org/3/)           
