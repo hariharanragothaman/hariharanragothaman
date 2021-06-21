@@ -2,17 +2,6 @@
 
 Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems and Robotics.
 
-### Other Profiles:
-1. [LinkedIn](https://www.linkedin.com/in/hariharanragothaman/)
-2. [StackOverflow](https://stackoverflow.com/users/3555366/hariharanragothaman)
-3. [Medium](https://medium.com/upsolve-digest)
-
-### Handles:    
-1. [Codeforces](https://codeforces.com/profile/hariharanragothama)
-
-
-### Other Repo's of interest.   
-1. [arduinoMaster](https://github.com/hariharanragothaman/arduinomaster) 
 
 ### Languages: 
 
@@ -36,6 +25,20 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 ### Test Frameworks:
 [<img align="left" alt="PyTest" width="50" height="50" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](https://docs.pytest.org/en/stable/)    
 <br />
+
+
+### Handles:    
+1. [codeforces](https://codeforces.com/profile/hariharanragothama)
+2. [LinkedIn](https://www.linkedin.com/in/hariharanragothaman/)
+3. [StackOverflow](https://stackoverflow.com/users/3555366/hariharanragothaman)
+
+
+### Other Repo's of interest.   
+1. [arduinoMaster](https://github.com/hariharanragothaman/arduinomaster) 
+
+
+### Blog:   
+3. [Medium](https://medium.com/upsolve-digest).  
 
 <!--
 **hariharanragothaman/hariharanragothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
