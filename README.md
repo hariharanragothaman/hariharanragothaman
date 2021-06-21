@@ -29,8 +29,11 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 
 ### Handles:    
 1. [codeforces](https://codeforces.com/profile/hariharanragothama)
-2. [LinkedIn](https://www.linkedin.com/in/hariharanragothaman/)
-3. [StackOverflow](https://stackoverflow.com/users/3555366/hariharanragothaman)
+2. [linkedIn](https://www.linkedin.com/in/hariharanragothaman/)
+3. [stackoverflow](https://stackoverflow.com/users/3555366/hariharanragothaman)
+
+
+### Active Repositories:     
 
 
 ### Other Repo's of interest.   
