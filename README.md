@@ -2,9 +2,6 @@
 
 Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems and Robotics.
 
-### Other Profiles:
-1. [LinkedIn](https://www.linkedin.com/in/hariharanragothaman/)
-2. [StackOverflow](https://stackoverflow.com/users/3555366/hariharanragothaman)
 
 ### Languages: 
 
@@ -29,7 +26,24 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 [<img align="left" alt="PyTest" width="50" height="50" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](https://docs.pytest.org/en/stable/)    
 <br />
 
-### Github Stats
+
+### Handles:    
+
+[<img align="left" alt="LinkedIn" width="50" height="50" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/hariharanragothaman/)     [<img align="left" alt="Stackoverflow" width="50" height="50" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)     
+<br />
+
+3. [codeforces](https://codeforces.com/profile/hariharanragothama) 
+4. [leetcode](https://leetcode.com/ragothaman/)
+
+### Active Repositories:     
+1. [pymaster](https://github.com/hariharanragothaman/pymaster)
+2. [cppmaster](https://github.com/hariharanragothaman/cppmaster) 
+3. [arduinomaster](https://github.com/hariharanragothaman/arduinomaster) 
+4. [python leetcode solns](https://github.com/hariharanragothaman/pyrevise-leetcode)
+5. [cpp leetcode solns](https://github.com/hariharanragothaman/cpprevise-leetcode)
+
+### Blog:   
+[Upsolve Digest](https://medium.com/upsolve-digest)  
 
 [![Hariharan's Github Stats](https://github-readme-stats.vercel.app/api?username=hariharanragothaman&count_private=true&theme=default&show_icons=true)](https://github.com/hariharanragothaman)
 <!--
