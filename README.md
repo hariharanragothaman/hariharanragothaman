@@ -35,7 +35,7 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 ### Active Repositories:     
 1. [pymaster](https://github.com/hariharanragothaman/pymaster)
 2. [cppmaster](https://github.com/hariharanragothaman/cppmaster) 
-3. [arduinoMaster](https://github.com/hariharanragothaman/arduinomaster) 
+3. [arduinomaster](https://github.com/hariharanragothaman/arduinomaster) 
 4. [python leetcode solns](https://github.com/hariharanragothaman/pyrevise-leetcode)
 5. [cpp leetcode solns](https://github.com/hariharanragothaman/cpprevise-leetcode)
 
