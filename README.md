@@ -26,23 +26,21 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 [<img align="left" alt="PyTest" width="50" height="50" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](https://docs.pytest.org/en/stable/)    
 <br />
 
-
 ### Handles:    
 1. [linkedIn](https://www.linkedin.com/in/hariharanragothaman/) 
 2. [stackoverflow](https://stackoverflow.com/users/3555366/hariharanragothaman) 
 3. [codeforces](https://codeforces.com/profile/hariharanragothama) 
 4. [leetcode](https://leetcode.com/ragothaman/)
 
-
-
 ### Active Repositories:     
 1. [pymaster](https://github.com/hariharanragothaman/pymaster)
 2. [cppmaster](https://github.com/hariharanragothaman/cppmaster) 
 3. [arduinoMaster](https://github.com/hariharanragothaman/arduinomaster) 
-
+4. [python leetcode solns](https://github.com/hariharanragothaman/pyrevise-leetcode)
+5. [cpp leetcode solns](https://github.com/hariharanragothaman/cpprevise-leetcode)
 
 ### Blog:   
-3. [Medium](https://medium.com/upsolve-digest).  
+3. [Upsolve Digest](https://medium.com/upsolve-digest)  
 
 <!--
 **hariharanragothaman/hariharanragothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
