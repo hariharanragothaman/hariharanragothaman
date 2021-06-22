@@ -28,6 +28,7 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 
 
 ### Handles:    
+[<img align="left" alt="LinkedIn" width="50" height="50" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/hariharanragothaman/)
+[<img align="left" alt="Stackoverflow" width="75" height="75" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)  
 
-[<img align="left" alt="LinkedIn" width="50" height="50" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/hariharanragothaman/)     [<img align="left" alt="Stackoverflow" width="75" height="75" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)     
-<br />
+
