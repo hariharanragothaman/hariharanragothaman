@@ -27,19 +27,28 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 <br />     
 
 ### Handles:    
+[<img align="left" alt="Stackoverflow" width="200" height="200" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)     
 
-[<img align="left" alt="LinkedIn" width="50" height="50" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/hariharanragothaman/)     [<img align="left" alt="Stackoverflow" width="50" height="50" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)     
+[<img align="left" alt="LinkedIn" width="50" height="50" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/hariharanragothaman/)     
+
+
 <br />
 
-3. [codeforces](https://codeforces.com/profile/hariharanragothama) 
-4. [leetcode](https://leetcode.com/ragothaman/)
+   
 
+[codeforces](https://codeforces.com/profile/hariharanragothama) 
+[leetcode](https://leetcode.com/ragothaman/)
+   
+   
 ### Active Repositories:     
-1. [pymaster](https://github.com/hariharanragothaman/pymaster)
-2. [cppmaster](https://github.com/hariharanragothaman/cppmaster) 
-3. [arduinomaster](https://github.com/hariharanragothaman/arduinomaster) 
-4. [python leetcode solns](https://github.com/hariharanragothaman/pyrevise-leetcode)
-5. [cpp leetcode solns](https://github.com/hariharanragothaman/cpprevise-leetcode)
+1. [pymaster](https://github.com/hariharanragothaman/pymaster) 
+2. [cppmaster](https://github.com/hariharanragothaman/cppmaster)  
+3. [arduinomaster](https://github.com/hariharanragothaman/arduinomaster)  
+4. [python leetcode solns](https://github.com/hariharanragothaman/pyrevise-leetcode) 
+5. [cpp leetcode solns](https://github.com/hariharanragothaman/cpprevise-leetcode)   
+
+
+
 
 ### Blog:   
 3. [Upsolve Digest](https://medium.com/upsolve-digest)  
