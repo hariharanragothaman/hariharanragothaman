@@ -23,8 +23,9 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 
 
 ### Test Frameworks:
-[<img align="left" alt="PyTest" width="50" height="50" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](https://docs.pytest.org/en/stable/)       
-<br />     
+[<img align="left" alt="PyTest" width="50" height="50" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](https://docs.pytest.org/en/stable/)    
+<br />
+
 
 ### Handles:    
 
@@ -42,8 +43,9 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 5. [cpp leetcode solns](https://github.com/hariharanragothaman/cpprevise-leetcode)
 
 ### Blog:   
-3. [Upsolve Digest](https://medium.com/upsolve-digest)  
+[Upsolve Digest](https://medium.com/upsolve-digest)  
 
+[![Hariharan's Github Stats](https://github-readme-stats.vercel.app/api?username=hariharanragothaman&count_private=true&theme=default&show_icons=true)](https://github.com/hariharanragothaman)
 <!--
 **hariharanragothaman/hariharanragothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
