@@ -33,6 +33,14 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 [<img align="left" alt="HackerRank" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/ragothaman)
 [<img align="left" alt="LeetCode" width="50" height="50" src="https://matteoesposito.com/project/leetcode/featured.png" />](https://leetcode.com/ragothaman/)
 [<img align="left" alt="CSES" width="100" height="50" src="https://cses.fi/logo.png?1" />](https://cses.fi/problemset/user/52345/)
-[<img align="left" alt="Stackoverflow" width="100" height="50" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)  
+[<img align="left" alt="Stackoverflow" width="100" height="50" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)              
+<br />
 
 
+
+### Active Repositories:    
+1. [pyrevise-leetcode](https://github.com/hariharanragothaman/pyrevise-leetcode)              
+2. [cpprevise-leetcode](https://github.com/hariharanragothaman/cpprevise-leetcode)     
+3. [CSES](https://github.com/hariharanragothaman/CSES)                       
+
+        
