@@ -36,11 +36,4 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 [<img align="left" alt="Stackoverflow" width="100" height="50" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)              
 <br />
 
-
-
-### Active Repositories:    
-1. [pyrevise-leetcode](https://github.com/hariharanragothaman/pyrevise-leetcode)              
-2. [cpprevise-leetcode](https://github.com/hariharanragothaman/cpprevise-leetcode)     
-3. [CSES](https://github.com/hariharanragothaman/CSES)                       
-
         
