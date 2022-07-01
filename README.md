@@ -22,11 +22,6 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 <br />
 
 
-### Test Frameworks:
-[<img align="left" alt="PyTest" width="50" height="50" src="https://docs.pytest.org/en/stable/_static/pytest1.png" />](https://docs.pytest.org/en/stable/)    
-<br />
-
-
 ### Handles:    
 [<img align="left" alt="LinkedIn" width="50" height="50" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/hariharanragothaman/)
 [<img align="left" alt="Codeforces" width="75" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69Ryw05X2VZZV8ktYQwsPBC6fkcOmaLIINkgVDYBY4-FhuKpHtmlZFkdo-KR9zHURxVU&usqp=CAU" />](https://codeforces.com/profile/hariharanragothama)
