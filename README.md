@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems and Robotics.
+Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems, Distributed Systems and Robotics.
 
 
 ### Languages: 
