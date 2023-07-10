@@ -22,13 +22,3 @@ Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedde
 <br />
 
 
-### Handles:    
-[<img align="left" alt="LinkedIn" width="50" height="50" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />](https://www.linkedin.com/in/hariharanragothaman/)
-[<img align="left" alt="Codeforces" width="75" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69Ryw05X2VZZV8ktYQwsPBC6fkcOmaLIINkgVDYBY4-FhuKpHtmlZFkdo-KR9zHURxVU&usqp=CAU" />](https://codeforces.com/profile/hariharanragothama)
-[<img align="left" alt="HackerRank" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/ragothaman)
-[<img align="left" alt="LeetCode" width="50" height="50" src="https://matteoesposito.com/project/leetcode/featured.png" />](https://leetcode.com/cppygod/)
-[<img align="left" alt="CSES" width="100" height="50" src="https://cses.fi/logo.png?1" />](https://cses.fi/problemset/user/52345/)
-[<img align="left" alt="Stackoverflow" width="100" height="50" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/3555366/hariharanragothaman)              
-<br />
-
-        
