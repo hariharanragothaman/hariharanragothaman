@@ -14,8 +14,7 @@
   Hey there! Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems, Distributed Systems and Robotics.
-
+Hariharan Ragothaman is an experienced Software Engineer currently working as a Lead Software Engineer at athenahealth; previously he worked at Bose Corporation as Embedded Software Engineer. He received his MS from Northeastern University and BE from Anna University. He has a passion for designing complex systems, DevOps, embedded systems, distributed systems and robotics.
 
 ### Languages: 
 
