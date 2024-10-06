@@ -19,6 +19,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<br />
 
 Hariharan Ragothaman is an experienced Software Engineer currently working as a Lead Software Engineer at athenahealth; previously he worked at Bose Corporation as Embedded Software Engineer. He received his MS from Northeastern University and BE from Anna University. He has a passion for designing complex systems, DevOps, embedded systems, distributed systems and robotics.
 
@@ -43,6 +44,7 @@ Hariharan Ragothaman is an experienced Software Engineer currently working as a 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<br />
 
 ### Tools:  
 [<img align="left" alt="Flask" width="50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://flask.palletsprojects.com/en/1.1.x/) 
@@ -53,4 +55,6 @@ Hariharan Ragothaman is an experienced Software Engineer currently working as a 
 [<img align="left" alt="Kubernetes" width="50" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />](https://github.com/kubernetes/kubernetes)     
 <br />
 
+---
 
+### :fire: My Stats :
