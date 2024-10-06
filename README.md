@@ -1,5 +1,9 @@
 ### Hi there! 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems, Distributed Systems and Robotics.
 
 
