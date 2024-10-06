@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW">via GIPHY</a></p>" width="100"/>
+  <img src="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" width="100"/>
 </div>
 
 Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems, Distributed Systems and Robotics.
