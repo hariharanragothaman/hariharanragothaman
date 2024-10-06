@@ -43,12 +43,6 @@ Hariharan Ragothaman is an experienced Software Engineer currently working as a 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[<img align="left" alt="Python" width="50" height="50" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"  />](https://docs.python.org/3/)           
-
-[<img align="left" alt="cplusplus" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"  />](https://en.cppreference.com/w/)
-[<img align="left" alt="Arduino" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"  />](https://www.arduino.cc/)
-[<img align="left" alt="MATLAB" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"  />](https://www.mathworks.com/products/matlab.html)   
-<br />
 
 ### Tools:  
 [<img align="left" alt="Flask" width="50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://flask.palletsprojects.com/en/1.1.x/) 
