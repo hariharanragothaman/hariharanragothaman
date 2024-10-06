@@ -22,7 +22,10 @@
 
 Hariharan Ragothaman is an experienced Software Engineer currently working as a Lead Software Engineer at athenahealth; previously he worked at Bose Corporation as Embedded Software Engineer. He received his MS from Northeastern University and BE from Anna University. He has a passion for designing complex systems, DevOps, embedded systems, distributed systems and robotics.
 
-div>
+
+### Languages: 
+
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -39,8 +42,6 @@ div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### Languages: 
 
 [<img align="left" alt="Python" width="50" height="50" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"  />](https://docs.python.org/3/)           
 
