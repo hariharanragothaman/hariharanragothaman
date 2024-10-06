@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=hariharanragothaman&style=flat-square&color=blue" alt=""/>
+
 Hariharan is a Software Engineer who likes Problem Solving, Python, C++, Embedded systems, Distributed Systems and Robotics.
 
 
