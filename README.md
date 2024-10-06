@@ -43,17 +43,10 @@ Hariharan Ragothaman is an experienced Software Engineer currently working as a 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="kubernetes" alt="kubernetes" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="50" height="50"/>
+
 
 </div>
-
-<br />
-
-[<img align="left" alt="Flask" width="50" height = "50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://flask.palletsprojects.com/en/1.1.x/) 
-[<img align="left" alt="Docker" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"  />](https://www.docker.com/)                                                                                                                
-
-[<img align="left" alt="Jenkins" width="100" height="50" src="https://www.jenkins.io/images/logo-title-opengraph.png" />](https://www.jenkins.io/)                                    
-
-[<img align="left" alt="Kubernetes" width="50" height="50" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />](https://github.com/kubernetes/kubernetes)     
 <br />
 
 ---
