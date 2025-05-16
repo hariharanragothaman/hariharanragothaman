@@ -55,5 +55,5 @@ Hariharan Ragothaman is a seasoned Software Engineer at Advanced Micro Devices (
 ### :fire: Github Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hariharanragothaman&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/codesbyshrey?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/cppygod?ext=heatmap)
 
