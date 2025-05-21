@@ -21,8 +21,30 @@
 
 <br />
 
-Hariharan Ragothaman is a seasoned Software Engineer at Advanced Micro Devices (AMD). Before joining AMD, he served as a Lead Software Engineer at athenahealth and worked at Bose Corporation as an Embedded Software Engineer. Hariharan holds a Master of Science degree from Northeastern University and a Bachelor of Engineering from Anna University. With a strong passion for complex systems design, DevOps, embedded systems, distributed systems, and robotics, he thrives on solving challenging technical problems at scale.
+Hariharan Ragothaman is a seasoned Senior Software Engineer with over a decade of experience architecting scalable systems across embedded platforms, cloud-native environments, and AI-powered infrastructure. At Advanced Micro Devices (AMD), he leads mission-critical initiatives in data center validation and server-side systems. Previously, he contributed to DevSecOps transformations at athenahealth and played a key role in launching flagship consumer audio products at Bose Corporation.
 
+He holds an M.S. in Electrical and Computer Engineering from Northeastern University and a B.E. from Anna University. Hariharan thrives at the intersection of embedded software, distributed systems, robotics, and DevSecOps—solving high-impact technical challenges through principled system design and execution.
+
+In parallel with his industry work, Hariharan actively contributes to academic and research communities. He has authored peer-reviewed publications in leading IEEE conferences and journals, with interests spanning edge computing, secure AI systems, and resilient infrastructure. He reviews for top-tier venues including AAAI, NeurIPS, ICLR, ICML, IJCAI, IJCNN, iLRN, SoftwareX, and the Journal of Open Source Software. A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP, Conf42, SwampUP, and IEEE events. He frequently serves as a mentor and judge at global hackathons hosted by MIT, UC Berkeley, Boston University
+
+His work has earned several accolades, including the Global InfoSec Award for Cybersecurity Identity Governance at RSA Conference 2025, multiple Awards of Excellence at Bose, and induction into the athenahealth Hall of Fame.
+
+Highlights
+• Expertise in Python3.x, C++17, Data Structures, and Algorithms
+• Proven ability to deliver complex systems quickly and reliably
+• Deep interest in Embedded Systems and Large-Scale Distributed Systems
+• Passionate about problem-solving, product development, and technical leadership
+• Fast at understanding large codebases and learning new technologies
+• Proficient in Pytest, Google Test, and building CI/CD pipelines from scratch
+• Skilled in full lifecycle engineering—from requirements to deployment and support
+
+Technical Summary
+• Languages: Python 3.x, C++17, Shell
+• Libraries: Flask, Google Test, Pytest
+• DevOps: Docker, Kubernetes, Prometheus, Grafana, Jenkins, FluxCD
+• Tools: CMake, Conan, Terraform, MATLAB, Simulink, Arduino, Artifactory
+• Cloud: AWS, Azure
+• Networking: HTTP, TCP/IP, WebSockets
 
 ### Languages: 
 
