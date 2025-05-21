@@ -27,7 +27,7 @@ In parallel with his industry work, Hariharan actively contributes to academic a
 
 A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP, Conf42, SwampUP, and IEEE events. He frequently serves as a mentor and judge at global hackathons hosted by MIT, UC Berkeley, Boston University. His work has earned several accolades, including the Global InfoSec Award for Cybersecurity Identity Governance at RSA Conference 2025, multiple Awards of Excellence at Bose, and induction into the athenahealth Hall of Fame.
 
-*Highlights*   
+### Highlights  
 • Expertise in Python3.x, C++17, Data Structures, and Algorithms   
 • Proven ability to deliver complex systems quickly and reliably   
 • Deep interest in Embedded Systems and Large-Scale Distributed Systems   
@@ -36,7 +36,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 • Proficient in Pytest, Google Test, and building CI/CD pipelines from scratch   
 • Skilled in full lifecycle engineering—from requirements to deployment and support    
 
-*Technical Summary*   
+### Technical Summary   
 • Languages: Python 3.x, C++17, Shell    
 • Libraries: Flask, Google Test, Pytest   
 • DevOps: Docker, Kubernetes, Prometheus, Grafana, Jenkins, FluxCD   
