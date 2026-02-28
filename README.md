@@ -66,7 +66,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 4\. DevSecOps in Action - Building Resilient and Secure Distributed Systems, IEEE ARIAA 2024 <br>
 3\. Artificial Intelligence Driven Automation in DevOps - Transforming Security and Resilience, ICMR 2024 <br>
 2\. Improving Code Quality through Continuous Integration Testing, Bose Technical Conference (BTC-2017), Boston, USA <br>
-1\. Establishing Design Routines for Effective Control of Automated Robots, Educators Day, VIMANTRA 2012, National Instruments, Chennai, India
+1\. Establishing Design Routines for Effective Control of Automated Robots, VIMANTRA 2012, National Instruments, India
 
 ### Tech Stack
 
