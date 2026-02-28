@@ -60,13 +60,13 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 10\. [Secure-by-Design AI Agents - Open-Source Workflows for DevSecOps Automation](https://www.youtube.com/watch?v=FONwzUIMB7M), ACM Austin  Talks, USA <br>
 9\. Building Resilience - Revolutionizing Application Security with Unified Deployments and Automated SBOM, AMD DevOps World Conference 2025, Austin, USA <br>
 8\. [Uncovering 100K Security Violations](https://www.youtube.com/watch?v=Edky-9GsZOk) — OWASP Foundation, BASC 2025, Boston, USA <br>
-7\. Advancing Healthcare Security with DevSecOps, IEEE Orange County Computer Society (OCCS) Global Emerging Technologies Series, CA, USA <br>
+7\. Advancing Healthcare Security with DevSecOps, IEEE Computer Society (OCCS) Global Emerging Technologies Series, CA, USA <br>
 6\. [C++ and Python - Building Robust Applications by Offloading Compute-Heavy Workloads](https://www.youtube.com/watch?v=DlQQCvHFiho), Conf42 Python 2025 <br>
 5\. [Securely Unifying Deployments in an Organization for Increased Governance](https://www.youtube.com/watch?v=8DrgMFgzJlY), Conf42 DevOps 2025 <br>
 4\. DevSecOps in Action - Building Resilient and Secure Distributed Systems, IEEE ARIAA 2024 <br>
 3\. Artificial Intelligence Driven Automation in DevOps - Transforming Security and Resilience, ICMR 2024 <br>
-2\. Improving Code Quality through Continuous Integration Testing — Bose Technical Conference (BTC-2017), Boston, USA <br>
-1\. Establishing Design Routines for Effective Control of Automated Robots — Educators Day, VIMANTRA 2012, National Instruments, Chennai, India
+2\. Improving Code Quality through Continuous Integration Testing, Bose Technical Conference (BTC-2017), Boston, USA <br>
+1\. Establishing Design Routines for Effective Control of Automated Robots, Educators Day, VIMANTRA 2012, National Instruments, Chennai, India
 
 ### Tech Stack
 
