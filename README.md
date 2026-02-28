@@ -52,35 +52,45 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,cpp,bash)](https://skillicons.dev)
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
 
 **Libraries / Frameworks**
 
-[![Frameworks](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
-![Google Test](https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+[![Google Test](https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/googletest)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
 **DevOps**
 
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,jenkins)](https://skillicons.dev)
-![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+<a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /></a>
+<a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
+<a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
+[![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)](https://fluxcd.io/)
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=cmake,terraform,matlab,arduino)](https://skillicons.dev)
-![Conan](https://img.shields.io/badge/Conan-6699CB?style=for-the-badge&logo=conan&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
+<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" /></a>
+<a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" /></a>
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></a>
+[![Conan](https://img.shields.io/badge/Conan-6699CB?style=for-the-badge&logo=conan&logoColor=white)](https://conan.io/)
+[![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
+[![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)](https://jfrog.com/artifactory/)
 
 **Cloud**
 
-[![Cloud](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+<a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
 
 **Networking**
 
-![HTTP](https://img.shields.io/badge/HTTP-005C97?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-006400?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+[![HTTP](https://img.shields.io/badge/HTTP-005C97?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-006400?style=for-the-badge)](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ---
 
