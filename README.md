@@ -40,6 +40,14 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 • Proficient in Pytest, Google Test, and building CI/CD pipelines from scratch   
 • Skilled in full lifecycle engineering—from requirements to deployment and support    
 
+### Open Source Projects
+
+- [pymaster](https://github.com/hariharanragothaman/pymaster): Python quick reference for problem solving
+- [DepthOfInk](https://github.com/hariharanragothaman/DepthOfInk): Chat with characters from your storybook PDFs
+- [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle
+- [ISS-Tracking](https://github.com/hariharanragothaman/ISS-Tracking): Using Open Notify API to track the International Space Station
+- [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
+
 ### Technical Summary   
 • Languages: Python 3.x, C++17, Shell    
 • Libraries: Flask, Google Test, Pytest   
