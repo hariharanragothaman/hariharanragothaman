@@ -27,7 +27,7 @@ Hariharan Ragothaman is a seasoned Senior Software Engineer with over a decade o
 
 In parallel with his industry work, Hariharan actively contributes to academic and research communities. He has authored peer-reviewed publications in leading IEEE conferences and journals, with interests spanning edge computing, secure AI systems, and resilient infrastructure. He reviews for top-tier venues including AAAI, NeurIPS, ICLR, ICML, IJCAI, IJCNN, iLRN, SoftwareX, and the Journal of Open Source Software.  
 
-A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP, Conf42, SwampUP, and IEEE events. He frequently serves as a mentor and judge at global hackathons hosted by MIT, UC Berkeley, Boston University. His work has earned several accolades, including the Global InfoSec Award for Cybersecurity Identity Governance at RSA Conference 2025, multiple Awards of Excellence at Bose, and induction into the athenahealth Hall of Fame.
+A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP, Conf42, SwampUP, and IEEE events. He frequently serves as a mentor and judge at global hackathons hosted by MIT, UC Berkeley, Boston University. His work has earned several accolades, including Top 30 Early Career Professionals in Computing, IEEE COmputer Society, Global InfoSec Award for Cybersecurity Identity Governance at RSA Conference 2025, multiple Awards of Excellence at Bose, and induction into the athenahealth Hall of Fame.
 
 </div>
 
