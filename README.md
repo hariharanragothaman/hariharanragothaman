@@ -50,7 +50,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 
 ### Invited Talks
 
-**17\.** [**Unified Deployment Pipeline for Speed, Security & Compliance**](https://www.youtube.com/watch?v=paGkIuf1VkQ) — swampUP 2025, TechStrongTV (Sep 2025)
+**17\.** [**Unified Deployment Pipeline for Speed, Security & Compliance**](https://www.youtube.com/watch?v=paGkIuf1VkQ) — TechStrongTV (Sep 2025)
 
 **16\.** **WebRTC Under Constraint - Emulating Embedded Devices with a Virtual Test Lab** — Real Time Communications Conference 2025 & Expo, Illinois Tech, Chicago, USA (Oct 2025)
 
