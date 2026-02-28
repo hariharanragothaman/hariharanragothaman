@@ -58,7 +58,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 12\. [From Robotics to DevSecOps - A Journey in Tech](https://www.youtube.com/watch?v=tlRdrqWABQk), TestGuild DevOps Tools Podcast <br>
 11\. Zero Trust at the API Layer - Strategies for Securing Microservices in Multi-Cloud Environments, Cloud Security Alliance <br>
 10\. [Secure-by-Design AI Agents - Open-Source Workflows for DevSecOps Automation](https://www.youtube.com/watch?v=FONwzUIMB7M), ACM Austin  Talks, USA <br>
-9\. Revolutionizing Application Security with Unified Deployments and Automated SBOM, AMD DevOps World Conference 2025, USA <br>
+9\. Revolutionizing Application Security with Unified Deployments and Automated SBOM, AMD DevOps World 2025, USA<br>
 8\. [Uncovering 100K Security Violations](https://www.youtube.com/watch?v=Edky-9GsZOk) — OWASP Foundation, BASC 2025, Boston, USA <br>
 7\. Advancing Healthcare Security with DevSecOps, IEEE Computer Society (OCCS) Global Emerging Technologies Series, CA, USA <br>
 6\. [C++ and Python - Building Robust Applications by Offloading Compute-Heavy Workloads](https://www.youtube.com/watch?v=DlQQCvHFiho), Conf42 Python 2025 <br>
