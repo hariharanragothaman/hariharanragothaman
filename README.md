@@ -50,11 +50,12 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 
 ### Invited Talks
 
+18\. [The Real ROI of your Cloud Strategy](https://www.red-gate.com/hub/events/redgate-summit-2025-dallas), RedGate Summit, Dallas 2025 <br>
 17\. [Unified Deployment Pipeline for Speed, Security & Compliance](https://www.youtube.com/watch?v=paGkIuf1VkQ), TechStrongTV <br>
 16\. WebRTC Under Constraint - Emulating Embedded Devices with a Virtual Test Lab, RTC 2025 & Expo, Chicago, USA <br>
 15\. Unified DevSecOps Pipelines - Accelerating Secure Deployments with NLP and JFrog XRAY, SwampUp 2025, CA, USA <br>
 14\. [Shift-Left Meets Zero Trust - Building Secure-by-Design APIs from Day Zero](https://www.youtube.com/watch?v=m4SDfJPQHQ8), SEI, CMU, USA <br>
-13\. Async Python for Data Science - Speeding Up IO-Bound Workflows — Elastic & PyData Joint Meetup, NYC, USA <br>
+13\. [Async Python for Data Science - Speeding Up IO-Bound Workflows](https://www.linkedin.com/feed/update/urn:li:activity:7362535892613271552/), Elastic & PyData Joint Meetup, NYC, USA <br>
 12\. [From Robotics to DevSecOps - A Journey in Tech](https://www.youtube.com/watch?v=tlRdrqWABQk), TestGuild DevOps Tools Podcast <br>
 11\. Zero Trust at the API Layer - Strategies for Securing Microservices in Multi-Cloud Environments, Cloud Security Alliance <br>
 10\. [Secure-by-Design AI Agents - Open-Source Workflows for DevSecOps Automation](https://www.youtube.com/watch?v=FONwzUIMB7M), ACM Austin  Talks, USA <br>
