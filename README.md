@@ -21,15 +21,15 @@
 
 <br />
 
-<div style="text-align: justify"> 
+Senior Software Engineer with over a decade of experience architecting scalable systems across embedded platforms, cloud-native environments, and AI-powered infrastructure. Currently at AMD leading data center validation and server-side systems. Previously drove DevSecOps transformations at athenahealth and launched flagship consumer audio products at Bose. M.S. in ECE from Northeastern University, B.E. from Anna University.
 
-Hariharan Ragothaman is a seasoned Senior Software Engineer with over a decade of experience architecting scalable systems across embedded platforms, cloud-native environments, and AI-powered infrastructure. At Advanced Micro Devices (AMD), he leads mission-critical initiatives in data center validation and server-side systems. Previously, he contributed to DevSecOps transformations at athenahealth and played a key role in launching flagship consumer audio products at Bose Corporation. He holds an M.S. in Electrical and Computer Engineering from Northeastern University and a B.E. from Anna University. Hariharan thrives at the intersection of embedded software, distributed systems, robotics, and DevSecOps—solving high-impact technical challenges through principled system design and execution.
+Active in academic and research communities — authored peer-reviewed publications in IEEE conferences and journals, and reviews for AAAI, NeurIPS, ICLR, ICML, IJCAI, IJCNN, iLRN, SoftwareX, and the Journal of Open Source Software. Delivered invited talks at ACM, OWASP, Conf42, SwampUP, and IEEE events, and mentors/judges at hackathons hosted by MIT, UC Berkeley, and Boston University.
 
-In parallel with his industry work, Hariharan actively contributes to academic and research communities. He has authored peer-reviewed publications in leading IEEE conferences and journals, with interests spanning edge computing, secure AI systems, and resilient infrastructure. He reviews for top-tier venues including AAAI, NeurIPS, ICLR, ICML, IJCAI, IJCNN, iLRN, SoftwareX, and the Journal of Open Source Software.  
-
-A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP, Conf42, SwampUP, and IEEE events. He frequently serves as a mentor and judge at global hackathons hosted by MIT, UC Berkeley, Boston University. His work has earned several accolades, including Top 30 Early Career Professionals in Computing, IEEE Computer Society, Global InfoSec Award for Cybersecurity Identity Governance at RSA Conference 2025, multiple Awards of Excellence at Bose, and induction into the athenahealth Hall of Fame.
-
-</div>
+### Awards & Recognition
+- Top 30 Early Career Professionals in Computing, IEEE Computer Society
+- Global InfoSec Award for Cybersecurity Identity Governance, RSA Conference 2025
+- Multiple Awards of Excellence, Bose Corporation
+- Hall of Fame, athenahealth
 
 ### Highlights  
 • Expertise in Python3.x, C++17, Data Structures, and Algorithms   
