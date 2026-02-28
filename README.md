@@ -51,20 +51,20 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 ### Invited Talks
 
 17\. [Unified Deployment Pipeline for Speed, Security & Compliance](https://www.youtube.com/watch?v=paGkIuf1VkQ), TechStrongTV <br>
-16\. WebRTC Under Constraint - Emulating Embedded Devices with a Virtual Test Lab — RTC 2025 & Expo, Chicago, USA <br>
-15\. Unified DevSecOps Pipelines - Accelerating Secure Deployments with NLP and JFrog XRAY — SwampUp 2025, CA, USA <br>
+16\. WebRTC Under Constraint - Emulating Embedded Devices with a Virtual Test Lab, RTC 2025 & Expo, Chicago, USA <br>
+15\. Unified DevSecOps Pipelines - Accelerating Secure Deployments with NLP and JFrog XRAY, SwampUp 2025, CA, USA <br>
 14\. [Shift-Left Meets Zero Trust - Building Secure-by-Design APIs from Day Zero](https://www.youtube.com/watch?v=m4SDfJPQHQ8), SEI, CMU, USA <br>
 13\. Async Python for Data Science - Speeding Up IO-Bound Workflows — Elastic & PyData Joint Meetup, NYC, USA <br>
-12\. [From Robotics to DevSecOps - A Journey in Tech](https://www.youtube.com/watch?v=tlRdrqWABQk) — TestGuild DevOps Tools Podcast <br>
-11\. Zero Trust at the API Layer - Strategies for Securing Microservices in Multi-Cloud Environments — Zero Trust Working Group, Cloud Security Alliance <br>
-10\. [Secure-by-Design AI Agents - Open-Source Workflows for DevSecOps Automation](https://www.youtube.com/watch?v=FONwzUIMB7M) — ACM Austin  Talks, USA <br>
-9\. Building Resilience - Revolutionizing Application Security with Unified Deployments and Automated SBOM — AMD DevOps World Conference 2025, Austin, USA (<br>
+12\. [From Robotics to DevSecOps - A Journey in Tech](https://www.youtube.com/watch?v=tlRdrqWABQk), TestGuild DevOps Tools Podcast <br>
+11\. Zero Trust at the API Layer - Strategies for Securing Microservices in Multi-Cloud Environments, Zero Trust Working Group, Cloud Security Alliance <br>
+10\. [Secure-by-Design AI Agents - Open-Source Workflows for DevSecOps Automation](https://www.youtube.com/watch?v=FONwzUIMB7M), ACM Austin  Talks, USA <br>
+9\. Building Resilience - Revolutionizing Application Security with Unified Deployments and Automated SBOM, AMD DevOps World Conference 2025, Austin, USA (<br>
 8\. [Uncovering 100K Security Violations - Strengthening Application Security through Unified Deployments, XRAY Integration and Automated SBOM Generation](https://www.youtube.com/watch?v=Edky-9GsZOk) — OWASP Foundation, Boston Application Security Conference 2025, Boston, USA <br>
 7\. Advancing Healthcare Security with DevSecOps - Initiatives and Industry Insights — IEEE Orange County Computer Society (OCCS) Global Emerging Technologies Series, CA, USA (Feb 2025)<br>
-6\. [C++ and Python - Building Robust Applications by Offloading Compute-Heavy Workloads](https://www.youtube.com/watch?v=DlQQCvHFiho) — Conf42 Python 2025 <br>
-5\. [Securely Unifying Deployments in an Organization for Increased Governance](https://www.youtube.com/watch?v=8DrgMFgzJlY) — Conf42 DevOps 2025 <br>
-4\. DevSecOps in Action - Building Resilient and Secure Distributed Systems — IEEE ARIAA 2024 <br>
-3\. Artificial Intelligence Driven Automation in DevOps - Transforming Security and Resilience — ICMR 2024 <br>
+6\. [C++ and Python - Building Robust Applications by Offloading Compute-Heavy Workloads](https://www.youtube.com/watch?v=DlQQCvHFiho), Conf42 Python 2025 <br>
+5\. [Securely Unifying Deployments in an Organization for Increased Governance](https://www.youtube.com/watch?v=8DrgMFgzJlY), Conf42 DevOps 2025 <br>
+4\. DevSecOps in Action - Building Resilient and Secure Distributed Systems, IEEE ARIAA 2024 <br>
+3\. Artificial Intelligence Driven Automation in DevOps - Transforming Security and Resilience, ICMR 2024 <br>
 2\. Improving Code Quality through Continuous Integration Testing — Bose Technical Conference (BTC-2017), Boston, USA <br>
 1\. Establishing Design Routines for Effective Control of Automated Robots — Educators Day, VIMANTRA 2012, National Instruments, Chennai, India
 
