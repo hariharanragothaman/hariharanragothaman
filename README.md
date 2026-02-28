@@ -27,7 +27,7 @@ Hariharan Ragothaman is a seasoned Senior Software Engineer with over a decade o
 
 In parallel with his industry work, Hariharan actively contributes to academic and research communities. He has authored peer-reviewed publications in leading IEEE conferences and journals, with interests spanning edge computing, secure AI systems, and resilient infrastructure. He reviews for top-tier venues including AAAI, NeurIPS, ICLR, ICML, IJCAI, IJCNN, iLRN, SoftwareX, and the Journal of Open Source Software.  
 
-A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP, Conf42, SwampUP, and IEEE events. He frequently serves as a mentor and judge at global hackathons hosted by MIT, UC Berkeley, Boston University. His work has earned several accolades, including Top 30 Early Career Professionals in Computing, IEEE COmputer Society, Global InfoSec Award for Cybersecurity Identity Governance at RSA Conference 2025, multiple Awards of Excellence at Bose, and induction into the athenahealth Hall of Fame.
+A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP, Conf42, SwampUP, and IEEE events. He frequently serves as a mentor and judge at global hackathons hosted by MIT, UC Berkeley, Boston University. His work has earned several accolades, including Top 30 Early Career Professionals in Computing, IEEE Computer Society, Global InfoSec Award for Cybersecurity Identity Governance at RSA Conference 2025, multiple Awards of Excellence at Bose, and induction into the athenahealth Hall of Fame.
 
 </div>
 
@@ -48,39 +48,49 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 - [ISS-Tracking](https://github.com/hariharanragothaman/ISS-Tracking): Using Open Notify API to track the International Space Station
 - [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
 
-### Technical Summary   
-• Languages: Python 3.x, C++17, Shell    
-• Libraries: Flask, Google Test, Pytest   
-• DevOps: Docker, Kubernetes, Prometheus, Grafana, Jenkins, FluxCD   
-• Tools: CMake, Conan, Terraform, MATLAB, Simulink, Arduino, Artifactory   
-• Cloud: AWS, Azure   
-• Networking: HTTP, TCP/IP, WebSockets    
+### Tech Stack
 
-### Languages: 
+**Languages**
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<br />
+**Libraries / Frameworks**
 
-### Tools:  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Google Test](https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="TF" alt="TF" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="kubernetes" alt="kubernetes" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="50" height="50"/>
+**DevOps**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
 
-</div>
-<br />
+**Tools**
+
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Conan](https://img.shields.io/badge/Conan-6699CB?style=for-the-badge&logo=conan&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Networking**
+
+![HTTP](https://img.shields.io/badge/HTTP-005C97?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-006400?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 
 ---
 
