@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/hariharanragothaman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=xed8au4AAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=hariharanragothaman&style=flat-square&color=blue" alt=""/>
