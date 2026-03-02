@@ -31,12 +31,12 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 
 - [pymaster](https://github.com/hariharanragothaman/pymaster): Python quick reference for problem solving
 - [DepthOfInk](https://github.com/hariharanragothaman/DepthOfInk): Chat with characters from your storybook PDFs
-- [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle
 - [ISS-Tracking](https://github.com/hariharanragothaman/ISS-Tracking): Using Open Notify API to track the International Space Station
-- [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
 - [freeRTOS-visualizer](https://github.com/hariharanragothaman/freeRTOS-visualizer): Python tool to visualize RTOS tasks in real-time
 - [mediaPlayer](https://github.com/hariharanragothaman/mediaPlayer): Media Player implemented using C++
 - [nyx-video-pipeline](https://github.com/hariharanragothaman/nyx-video-pipeline): Real-time video capture from webcams, files, and RTSP streams
+- [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle
+- [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
 
 ### Invited Talks
 
