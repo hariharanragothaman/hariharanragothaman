@@ -106,7 +106,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 ### :fire: Github Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hariharanragothaman&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/hariharanragothaman?theme=dark)](https://leetcode.com/hariharanragothaman)
+[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/hariharanragothaman?theme=dark&show=graph)](https://leetcode.com/hariharanragothaman)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=neofetch&theme=dark)](https://codeforces.com/profile/neofetch)
 
