@@ -35,6 +35,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 - [freeRTOS-visualizer](https://github.com/hariharanragothaman/freeRTOS-visualizer): Python tool to visualize RTOS tasks in real-time
 - [mediaPlayer](https://github.com/hariharanragothaman/mediaPlayer): Media Player implemented using C++
 - [nyx-video-pipeline](https://github.com/hariharanragothaman/nyx-video-pipeline): Real-time video capture from webcams, files, and RTSP streams
+- [asyncio-talk](https://github.com/hariharanragothaman/asyncio-talk): Code for PyData NYC Talk
 - [zero-trust-bootup](https://github.com/hariharanragothaman/zero-trust-bootup): Quick example to showcase Zero-Trust
 - [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle
 - [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
