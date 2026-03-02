@@ -108,3 +108,5 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 
 [![Leetcode Contest](https://leetcard.jacoblin.cool/hariharanragothaman?theme=dark&font=Baloo_2&ext=contest)](https://leetcode.com/hariharanragothaman)
 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=neofetch&theme=dark)](https://codeforces.com/profile/neofetch)
+
