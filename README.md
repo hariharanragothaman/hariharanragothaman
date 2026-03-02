@@ -31,6 +31,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 - [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle
 - [ISS-Tracking](https://github.com/hariharanragothaman/ISS-Tracking): Using Open Notify API to track the International Space Station
 - [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
+- [freeRTOS-visualizer](https://github.com/hariharanragothaman/freeRTOS-visualizer): Python tool to visualize RTOS tasks in real-time
 
 ### Invited Talks
 
