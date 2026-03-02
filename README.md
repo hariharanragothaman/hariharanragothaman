@@ -36,6 +36,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 - [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
 - [freeRTOS-visualizer](https://github.com/hariharanragothaman/freeRTOS-visualizer): Python tool to visualize RTOS tasks in real-time
 - [mediaPlayer](https://github.com/hariharanragothaman/mediaPlayer): Media Player implemented using C++
+- [nyx-video-pipeline](https://github.com/hariharanragothaman/nyx-video-pipeline): Real-time video capture from webcams, files, and RTSP streams
 
 ### Invited Talks
 
