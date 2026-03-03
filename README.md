@@ -37,6 +37,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 - [nyx-video-pipeline](https://github.com/hariharanragothaman/nyx-video-pipeline): Real-time video capture from webcams, files, and RTSP streams
 - [asyncio-talk](https://github.com/hariharanragothaman/asyncio-talk): Talk on AsyncIO for speeding up I/O bound workflows
 - [zero-trust-bootup](https://github.com/hariharanragothaman/zero-trust-bootup): Quick example to showcase Zero-Trust
+- [nlp-terraform-pipeline](https://github.com/hariharanragothaman/nlp-terraform-pipeline): Synthetic AWS infrastructure queries and NLP models for Terraform automation
 - [buildathon-messaging](https://github.com/hariharanragothaman/buildathon-messaging): Inter-device voice and text messaging for Bose Home Speaker 300
 - [arduinobell](https://github.com/hariharanragothaman/arduinobell): System to control an electric bell through Arduino controller
 - [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle
