@@ -44,7 +44,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 - [arduinobell](https://github.com/hariharanragothaman/arduinobell): System to control an electric bell through Arduino controller
 - [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle
 - [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
-- [graphicbay](https://github.com/hariharanragothaman/graphicbay): C++ program for basic E-commerce system
+- [graphicbay](https://github.com/hariharanragothaman/graphicbay): C++ program for basic E-commerce system [Archived]
 
 ### Invited Talks
 
