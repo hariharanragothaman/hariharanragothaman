@@ -40,6 +40,7 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 - [nlp-terraform-pipeline](https://github.com/hariharanragothaman/nlp-terraform-pipeline): Synthetic AWS infrastructure queries and NLP models for Terraform automation
 - [buildathon-messaging](https://github.com/hariharanragothaman/buildathon-messaging): Inter-device voice and text messaging for Bose Home Speaker 300
 - [microshell](https://github.com/hariharanragothaman/unixshell): UNIX-based command line interpreter for User-OS interactions using C
+- [androquad](https://github.com/hariharanragothaman/androquad): Swing-free trajectory tracking for quad rotors with suspended payloads
 - [arduinobell](https://github.com/hariharanragothaman/arduinobell): System to control an electric bell through Arduino controller
 - [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle
 - [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem
