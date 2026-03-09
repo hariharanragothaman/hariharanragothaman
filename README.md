@@ -29,22 +29,22 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 
 ### Open Source Projects
 
-- [pymaster](https://github.com/hariharanragothaman/pymaster) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/pymaster?style=social) Python quick reference for problem solving
-- [DepthOfInk](https://github.com/hariharanragothaman/DepthOfInk) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/DepthOfInk?style=social) Chat with characters from your storybook PDFs
-- [ISS-Tracking](https://github.com/hariharanragothaman/ISS-Tracking) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/ISS-Tracking?style=social) Using Open Notify API to track the International Space Station
-- [freeRTOS-visualizer](https://github.com/hariharanragothaman/freeRTOS-visualizer) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/freeRTOS-visualizer?style=social) Python tool to visualize RTOS tasks in real-time
-- [mediaPlayer](https://github.com/hariharanragothaman/mediaPlayer) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/mediaPlayer?style=social) Media Player implemented using C++
-- [nyx-video-pipeline](https://github.com/hariharanragothaman/nyx-video-pipeline) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/nyx-video-pipeline?style=social) Real-time video capture from webcams, files, and RTSP streams
-- [asyncio-talk](https://github.com/hariharanragothaman/asyncio-talk) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/asyncio-talk?style=social) Talk on AsyncIO for speeding up I/O bound workflows
-- [zero-trust-bootup](https://github.com/hariharanragothaman/zero-trust-bootup) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/zero-trust-bootup?style=social) Quick example to showcase Zero-Trust
-- [nlp-terraform-pipeline](https://github.com/hariharanragothaman/nlp-terraform-pipeline) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/nlp-terraform-pipeline?style=social) Synthetic AWS infrastructure queries and NLP models for Terraform automation
-- [buildathon-messaging](https://github.com/hariharanragothaman/buildathon-messaging) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/buildathon-messaging?style=social) Inter-device voice and text messaging for Bose Home Speaker 300
-- [microshell](https://github.com/hariharanragothaman/unixshell) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/unixshell?style=social) UNIX-based command line interpreter for User-OS interactions using C
-- [androquad](https://github.com/hariharanragothaman/androquad) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/androquad?style=social) Swing-free trajectory tracking for quad rotors with suspended payloads
-- [arduinobell](https://github.com/hariharanragothaman/arduinobell) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/arduinobell?style=social) System to control an electric bell through Arduino controller
-- [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/BoggleGameSolver?style=social) Algorithm solution approaches for solving Boggle
-- [shufflecards](https://github.com/hariharanragothaman/shufflecards) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/shufflecards?style=social) Shuffle order problem
-- [graphicbay](https://github.com/hariharanragothaman/graphicbay) ![Stars](https://img.shields.io/github/stars/hariharanragothaman/graphicbay?style=social) C++ program for basic E-commerce system [Archived]
+- [pymaster](https://github.com/hariharanragothaman/pymaster): Python quick reference for problem solving ![Stars](https://img.shields.io/github/stars/hariharanragothaman/pymaster?style=social)
+- [DepthOfInk](https://github.com/hariharanragothaman/DepthOfInk): Chat with characters from your storybook PDFs ![Stars](https://img.shields.io/github/stars/hariharanragothaman/DepthOfInk?style=social)
+- [ISS-Tracking](https://github.com/hariharanragothaman/ISS-Tracking): Using Open Notify API to track the International Space Station ![Stars](https://img.shields.io/github/stars/hariharanragothaman/ISS-Tracking?style=social)
+- [freeRTOS-visualizer](https://github.com/hariharanragothaman/freeRTOS-visualizer): Python tool to visualize RTOS tasks in real-time ![Stars](https://img.shields.io/github/stars/hariharanragothaman/freeRTOS-visualizer?style=social)
+- [mediaPlayer](https://github.com/hariharanragothaman/mediaPlayer): Media Player implemented using C++ ![Stars](https://img.shields.io/github/stars/hariharanragothaman/mediaPlayer?style=social)
+- [nyx-video-pipeline](https://github.com/hariharanragothaman/nyx-video-pipeline): Real-time video capture from webcams, files, and RTSP streams ![Stars](https://img.shields.io/github/stars/hariharanragothaman/nyx-video-pipeline?style=social)
+- [asyncio-talk](https://github.com/hariharanragothaman/asyncio-talk): Talk on AsyncIO for speeding up I/O bound workflows ![Stars](https://img.shields.io/github/stars/hariharanragothaman/asyncio-talk?style=social)
+- [zero-trust-bootup](https://github.com/hariharanragothaman/zero-trust-bootup): Quick example to showcase Zero-Trust ![Stars](https://img.shields.io/github/stars/hariharanragothaman/zero-trust-bootup?style=social)
+- [nlp-terraform-pipeline](https://github.com/hariharanragothaman/nlp-terraform-pipeline): Synthetic AWS infrastructure queries and NLP models for Terraform automation ![Stars](https://img.shields.io/github/stars/hariharanragothaman/nlp-terraform-pipeline?style=social)
+- [buildathon-messaging](https://github.com/hariharanragothaman/buildathon-messaging): Inter-device voice and text messaging for Bose Home Speaker 300 ![Stars](https://img.shields.io/github/stars/hariharanragothaman/buildathon-messaging?style=social)
+- [microshell](https://github.com/hariharanragothaman/unixshell): UNIX-based command line interpreter for User-OS interactions using C ![Stars](https://img.shields.io/github/stars/hariharanragothaman/unixshell?style=social)
+- [androquad](https://github.com/hariharanragothaman/androquad): Swing-free trajectory tracking for quad rotors with suspended payloads ![Stars](https://img.shields.io/github/stars/hariharanragothaman/androquad?style=social)
+- [arduinobell](https://github.com/hariharanragothaman/arduinobell): System to control an electric bell through Arduino controller ![Stars](https://img.shields.io/github/stars/hariharanragothaman/arduinobell?style=social)
+- [BoggleGameSolver](https://github.com/hariharanragothaman/BoggleGameSolver): Algorithm solution approaches for solving Boggle ![Stars](https://img.shields.io/github/stars/hariharanragothaman/BoggleGameSolver?style=social)
+- [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem ![Stars](https://img.shields.io/github/stars/hariharanragothaman/shufflecards?style=social)
+- [graphicbay](https://github.com/hariharanragothaman/graphicbay): C++ program for basic E-commerce system [Archived] ![Stars](https://img.shields.io/github/stars/hariharanragothaman/graphicbay?style=social)
 
 ### Invited Talks
 
