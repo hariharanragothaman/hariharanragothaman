@@ -72,7 +72,8 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 
 ### Blogs
 
-1\. [NimbusNet: Building a High-Performance Echo & Chat Server Across Boost.Asio and io_uring](https://hackernoon.com/nimbusnet-building-a-highperformance-echo-and-chat-server-across-boostasio-and-io_uring) — Deep dive into low-latency TCP/UDP server design using Boost.Asio and Linux io_uring
+2\. [NimbusNet: Building a High-Performance Echo & Chat Server Across Boost.Asio and io_uring](https://hackernoon.com/nimbusnet-building-a-highperformance-echo-and-chat-server-across-boostasio-and-io_uring) — Deep dive into low-latency TCP/UDP server design using Boost.Asio and Linux io_uring <br>
+1\. [Template for Backtracking Problems Part 1 - The Basics](https://medium.com/upsolve-digest/template-for-backtracking-problems-part1-the-basics-75f744cab925) — A structured approach to solving backtracking problems
 
 ### Tech Stack
 
