@@ -51,29 +51,29 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 
 ### Invited Talks
 
-18\. [The Real ROI of your Cloud Strategy](https://www.red-gate.com/hub/events/redgate-summit-2025-dallas), RedGate Summit, Dallas 2025 <br>
-17\. [Unified Deployment Pipeline for Speed, Security & Compliance](https://www.youtube.com/watch?v=paGkIuf1VkQ), TechStrongTV <br>
-16\. WebRTC Under Constraint - Emulating Embedded Devices with a Virtual Test Lab, RTC 2025 & Expo, Chicago, USA <br>
-15\. Unified DevSecOps Pipelines - Accelerating Secure Deployments with NLP and JFrog XRAY, SwampUp 2025, CA, USA <br>
-14\. [Shift-Left Meets Zero Trust - Building Secure-by-Design APIs from Day Zero](https://www.youtube.com/watch?v=m4SDfJPQHQ8), SEI, CMU, USA <br>
-13\. [Async Python for Data Science - Speeding Up IO-Bound Workflows](https://www.linkedin.com/feed/update/urn:li:activity:7362535892613271552/), Elastic & PyData Joint Meetup, NYC, USA <br>
-12\. [From Robotics to DevSecOps - A Journey in Tech](https://www.youtube.com/watch?v=tlRdrqWABQk), TestGuild DevOps Tools Podcast <br>
-11\. Zero Trust at the API Layer - Strategies for Securing Microservices in Multi-Cloud Environments, Cloud Security Alliance <br>
-10\. [Secure-by-Design AI Agents - Open-Source Workflows for DevSecOps Automation](https://www.youtube.com/watch?v=FONwzUIMB7M), ACM Austin  Talks, USA <br>
-9\. Revolutionizing Application Security with Unified Deployments and Automated SBOM, AMD DevOps World 2025, USA<br>
-8\. [Uncovering 100K Security Violations](https://www.youtube.com/watch?v=Edky-9GsZOk) — OWASP Foundation, BASC 2025, Boston, USA <br>
-7\. Advancing Healthcare Security with DevSecOps, IEEE Computer Society (OCCS) Global Emerging Technologies Series, CA, USA <br>
-6\. [C++ and Python - Building Robust Applications by Offloading Compute-Heavy Workloads](https://www.youtube.com/watch?v=DlQQCvHFiho), Conf42 Python 2025 <br>
-5\. [Securely Unifying Deployments in an Organization for Increased Governance](https://www.youtube.com/watch?v=8DrgMFgzJlY), Conf42 DevOps 2025 <br>
-4\. DevSecOps in Action - Building Resilient and Secure Distributed Systems, IEEE ARIAA 2024 <br>
-3\. Artificial Intelligence Driven Automation in DevOps - Transforming Security and Resilience, ICMR 2024 <br>
-2\. Improving Code Quality through Continuous Integration Testing, Bose Technical Conference (BTC-2017), Boston, USA <br>
-1\. Establishing Design Routines for Effective Control of Automated Robots, VIMANTRA 2012, National Instruments, India
+[The Real ROI of your Cloud Strategy](https://www.red-gate.com/hub/events/redgate-summit-2025-dallas), RedGate Summit, Dallas 2025 <br>
+[Unified Deployment Pipeline for Speed, Security & Compliance](https://www.youtube.com/watch?v=paGkIuf1VkQ), TechStrongTV <br>
+WebRTC Under Constraint - Emulating Embedded Devices with a Virtual Test Lab, RTC 2025 & Expo, Chicago, USA <br>
+Unified DevSecOps Pipelines - Accelerating Secure Deployments with NLP and JFrog XRAY, SwampUp 2025, CA, USA <br>
+[Shift-Left Meets Zero Trust - Building Secure-by-Design APIs from Day Zero](https://www.youtube.com/watch?v=m4SDfJPQHQ8), SEI, CMU, USA <br>
+[Async Python for Data Science - Speeding Up IO-Bound Workflows](https://www.linkedin.com/feed/update/urn:li:activity:7362535892613271552/), Elastic & PyData Joint Meetup, NYC, USA <br>
+[From Robotics to DevSecOps - A Journey in Tech](https://www.youtube.com/watch?v=tlRdrqWABQk), TestGuild DevOps Tools Podcast <br>
+Zero Trust at the API Layer - Strategies for Securing Microservices in Multi-Cloud Environments, Cloud Security Alliance <br>
+[Secure-by-Design AI Agents - Open-Source Workflows for DevSecOps Automation](https://www.youtube.com/watch?v=FONwzUIMB7M), ACM Austin Talks, USA <br>
+Revolutionizing Application Security with Unified Deployments and Automated SBOM, AMD DevOps World 2025, USA <br>
+[Uncovering 100K Security Violations](https://www.youtube.com/watch?v=Edky-9GsZOk) — OWASP Foundation, BASC 2025, Boston, USA <br>
+Advancing Healthcare Security with DevSecOps, IEEE Computer Society (OCCS) Global Emerging Technologies Series, CA, USA <br>
+[C++ and Python - Building Robust Applications by Offloading Compute-Heavy Workloads](https://www.youtube.com/watch?v=DlQQCvHFiho), Conf42 Python 2025 <br>
+[Securely Unifying Deployments in an Organization for Increased Governance](https://www.youtube.com/watch?v=8DrgMFgzJlY), Conf42 DevOps 2025 <br>
+DevSecOps in Action - Building Resilient and Secure Distributed Systems, IEEE ARIAA 2024 <br>
+Artificial Intelligence Driven Automation in DevOps - Transforming Security and Resilience, ICMR 2024 <br>
+Improving Code Quality through Continuous Integration Testing, Bose Technical Conference (BTC-2017), Boston, USA <br>
+Establishing Design Routines for Effective Control of Automated Robots, VIMANTRA 2012, National Instruments, India
 
 ### Blogs
 
-2\. [NimbusNet: Building a High-Performance Echo & Chat Server Across Boost.Asio and io_uring](https://hackernoon.com/nimbusnet-building-a-highperformance-echo-and-chat-server-across-boostasio-and-io_uring) — Deep dive into low-latency TCP/UDP server design using Boost.Asio and Linux io_uring <br>
-1\. [Template for Backtracking Problems Part 1 - The Basics](https://medium.com/upsolve-digest/template-for-backtracking-problems-part1-the-basics-75f744cab925) — A structured approach to solving backtracking problems
+[NimbusNet: Building a High-Performance Echo & Chat Server Across Boost.Asio and io_uring](https://hackernoon.com/nimbusnet-building-a-highperformance-echo-and-chat-server-across-boostasio-and-io_uring) — Deep dive into low-latency TCP/UDP server design using Boost.Asio and Linux io_uring <br>
+[Template for Backtracking Problems Part 1 - The Basics](https://medium.com/upsolve-digest/template-for-backtracking-problems-part1-the-basics-75f744cab925) — A structured approach to solving backtracking problems
 
 ### Tech Stack
 
