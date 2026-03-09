@@ -49,6 +49,10 @@ A recognized thought leader, Hariharan has delivered invited talks at ACM, OWASP
 [shufflecards](https://github.com/hariharanragothaman/shufflecards): Shuffle order problem ![Stars](https://img.shields.io/github/stars/hariharanragothaman/shufflecards?style=flat&color=gold) <br>
 [graphicbay](https://github.com/hariharanragothaman/graphicbay): C++ program for basic E-commerce system [Archived] ![Stars](https://img.shields.io/github/stars/hariharanragothaman/graphicbay?style=flat&color=gold)
 
+### Blogs
+
+[NimbusNet: Building a High-Performance Echo & Chat Server Across Boost.Asio and io_uring](https://hackernoon.com/nimbusnet-building-a-highperformance-echo-and-chat-server-across-boostasio-and-io_uring) — Deep dive into low-latency TCP/UDP server design using Boost.Asio and Linux io_uring
+
 ### Invited Talks
 
 18\. [The Real ROI of your Cloud Strategy](https://www.red-gate.com/hub/events/redgate-summit-2025-dallas), RedGate Summit, Dallas 2025 <br>
